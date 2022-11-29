@@ -1,4 +1,2 @@
-# PycharmProjects
-A repo where I'll be placing my python code.
-
-could have named it python projects but pycharm sounds cooler
+# PythonProjects
+A repo where I'll be sharing my python code.
